@@ -8,9 +8,6 @@ export default function Header() {
       </Link>
 
       <div>
-        <Link className="link" href={"/about"}>
-          About
-        </Link>
         <Link className="link" href={"/design"}>
           {" "}
           Design

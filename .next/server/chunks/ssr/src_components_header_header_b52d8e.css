@@ -1,0 +1,27 @@
+/* [project]/src/components/header/header.css [app-client] (css) */
+.link {
+  color: red;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+.link:hover {
+  color: #00f;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  height: 100px;
+  background-color: #fb0;
+}
+
+.title {
+  font-size: 18px;
+  font-style: italic;
+  font-family: serif;
+}
+
+/*# sourceMappingURL=src_components_header_header_b52d8e.css.map*/

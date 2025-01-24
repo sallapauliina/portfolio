@@ -1,0 +1,9 @@
+/* [project]/src/components/footer/footer.css [app-client] (css) */
+.footer {
+  display: flex;
+  justify-content: space-around;
+  background-color: #0ff;
+  width: 100%;
+}
+
+/*# sourceMappingURL=src_components_footer_footer_b52d8e.css.map*/
