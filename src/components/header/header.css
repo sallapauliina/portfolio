@@ -1,0 +1,23 @@
+.link {
+  color: #ff0000;
+  text-decoration: none;
+  margin-right: 10px;
+}
+.link:hover {
+  color: #0000ff;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  height: 100px;
+  background-color: #ffbb00;
+}
+.title {
+  font-size: 18px;
+  font-style: italic;
+  font-family: serif;
+}
+
+/* m-3 text-2xl font-serif hover:text-emerald-700 */

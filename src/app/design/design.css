@@ -1,0 +1,19 @@
+.title {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.projects {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.image1 {
+  padding: 20px;
+}
+
+.image2 {
+  padding: 20px;
+}

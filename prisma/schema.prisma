@@ -1,0 +1,33 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+model Lesson {
+  id          String     @id @default(auto()) @map("_id") @db.ObjectId
+  type        LessonType
+  name        String
+  startTime   String
+  endTime     String
+  description String
+  price       Int
+  joinedUsers String[]
+  startDate   DateTime
+  endDate     DateTime?
+}
+
+enum LessonType {
+  Normal
+  Retrite
+  Online
+}
+
+model User {
+  id       String   @id @default(auto()) @map("_id") @db.ObjectId
+  email    String   @unique
+  lessons  String[]
+}
