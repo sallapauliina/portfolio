@@ -39,7 +39,7 @@ function Home() {
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "about",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                    children: "I am a MSc student in Human-Computer Interaction at Aalto University, graduating this spring. I am looking for a challenging and interesting internship where I can use my skills in UI/UX design, front-end development, service design, and interaction design while expanding my skills in software engineering and full-stack development."
+                    children: "I am a MSc student in Human-Computer Interaction at Aalto University, graduating this spring. I am looking for a challenging and interesting internship where I can use my skills in UI/UX design, front-end development and service design while expanding my skills in software engineering and full-stack development."
                 }, void 0, false, {
                     fileName: "[project]/src/app/page.js",
                     lineNumber: 16,
@@ -180,14 +180,14 @@ function Home() {
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        children: "Usability testing"
+                                        children: "Wireframing"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/page.js",
                                         lineNumber: 46,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        children: "Wireframing"
+                                        children: "Customer service"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/page.js",
                                         lineNumber: 47,
@@ -203,14 +203,14 @@ function Home() {
                                 className: "column2",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        children: "Design systems"
+                                        children: "Website design"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/page.js",
                                         lineNumber: 50,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        children: "Sketch"
+                                        children: "Debugging"
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/page.js",
                                         lineNumber: 51,
@@ -221,13 +221,6 @@ function Home() {
                                     }, void 0, false, {
                                         fileName: "[project]/src/app/page.js",
                                         lineNumber: 52,
-                                        columnNumber: 13
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        children: "Illustrator"
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/app/page.js",
-                                        lineNumber: 53,
                                         columnNumber: 13
                                     }, this)
                                 ]

@@ -17,8 +17,8 @@ export default function Home() {
           I am a MSc student in Human-Computer Interaction at Aalto University,
           graduating this spring. I am looking for a challenging and interesting
           internship where I can use my skills in UI/UX design, front-end
-          development, service design, and interaction design while expanding my
-          skills in software engineering and full-stack development.
+          development and service design while expanding my skills in software
+          engineering and full-stack development.
         </p>
       </div>
       <div className="skills">
@@ -43,14 +43,13 @@ export default function Home() {
           <div className="column1">
             <p>Service design</p>
             <p>Prototyping</p>
-            <p>Usability testing</p>
             <p>Wireframing</p>
+            <p>Customer service</p>
           </div>
           <div className="column2">
-            <p>Design systems</p>
-            <p>Sketch</p>
+            <p>Website design</p>
+            <p>Debugging</p>
             <p>Figma</p>
-            <p>Illustrator</p>
           </div>
         </div>
       </div>
