@@ -36,6 +36,7 @@ export default function Home() {
             <p>Node</p>
             <p>HTML</p>
             <p>Docker</p>
+            <p>Github</p>
           </div>
         </div>
         <h2 className="text-xl">Skills</h2>
