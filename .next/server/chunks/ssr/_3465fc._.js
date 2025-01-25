@@ -18,7 +18,7 @@ function Design() {
         className: "title2",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                children: "AskareAppi"
+                children: "Shopping list"
             }, void 0, false, {
                 fileName: "[project]/src/app/design/page.js",
                 lineNumber: 7,
@@ -35,8 +35,9 @@ function Design() {
                 lineNumber: 8,
                 columnNumber: 7
             }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                children: "AskareAppi was developed together with my friend Eveliina Ahonen for our course. It is a personal task management solution for a clean and organized home. You can add new tasks, mark them as completed, and keep track of your progress."
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "textt",
+                children: "Shopping list is an application which allows users to create shopping lists, add items to these lists, mark items as collected, and maintain active and inactive lists."
             }, void 0, false, {
                 fileName: "[project]/src/app/design/page.js",
                 lineNumber: 15,
@@ -46,25 +47,26 @@ function Design() {
                 children: "AskareAppi"
             }, void 0, false, {
                 fileName: "[project]/src/app/design/page.js",
-                lineNumber: 21,
+                lineNumber: 20,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                 className: "image2",
-                src: "/project1.jpg",
+                src: "/askare_appi.png",
                 alt: "Project 1",
                 width: 600,
                 height: 600
             }, void 0, false, {
                 fileName: "[project]/src/app/design/page.js",
-                lineNumber: 22,
+                lineNumber: 21,
                 columnNumber: 7
             }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                children: "Project 2"
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "textt",
+                children: "AskareAppi was developed together with my friend Eveliina for our course. It is a personal task management solution for a clean and organized home. You can add new tasks, mark them as completed, and keep track of your progress."
             }, void 0, false, {
                 fileName: "[project]/src/app/design/page.js",
-                lineNumber: 29,
+                lineNumber: 28,
                 columnNumber: 7
             }, this)
         ]
