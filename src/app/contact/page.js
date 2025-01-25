@@ -7,8 +7,8 @@ import React from "react";
 export default function Contact() {
   return (
     <div className="title">
-      <h1 className="pb-5">Contact me</h1>
-      <Link href="mailto:salla.lyytikainen@outlook.com">
+      <h1 className="pb-10 text-2xl">Contact me</h1>
+      <Link className="underline" href="mailto:salla.lyytikainen@outlook.com">
         salla.lyytikainen@outlook.com
       </Link>
       <div className="wrapper">

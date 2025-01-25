@@ -1,12 +1,14 @@
 /* [project]/src/components/header/header.css [app-client] (css) */
 .link {
-  color: red;
   text-decoration: none;
+  font-size: x-large;
   margin-right: 10px;
+  font-family: serif;
+  transition: color .3s;
 }
 
 .link:hover {
-  color: #00f;
+  color: #047857;
 }
 
 nav {
@@ -15,13 +17,23 @@ nav {
   align-items: center;
   padding: 10px;
   height: 100px;
-  background-color: #fb0;
 }
 
 .title {
   font-size: 18px;
   font-style: italic;
   font-family: serif;
+}
+
+.title1 {
+  font-size: 18px;
+  font-style: italic;
+  font-family: serif;
+  transition: color .3s;
+}
+
+.title1:hover {
+  color: #047857;
 }
 
 /*# sourceMappingURL=src_components_header_header_b52d8e.css.map*/

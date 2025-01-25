@@ -305,8 +305,34 @@ img, video {
   min-height: 100vh;
 }
 
-.pb-5 {
-  padding-bottom: 1.25rem;
+.p-20 {
+  padding: 5rem;
+}
+
+.p-10 {
+  padding: 2.5rem;
+}
+
+.p-6 {
+  padding: 1.5rem;
+}
+
+.pb-10 {
+  padding-bottom: 2.5rem;
+}
+
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.text-xl {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+
+.underline {
+  text-decoration-line: underline;
 }
 
 .antialiased {

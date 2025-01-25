@@ -2,8 +2,9 @@
 .footer {
   display: flex;
   justify-content: space-around;
-  background-color: #0ff;
   width: 100%;
+  font-family: serif;
+  padding-top: 70px;
 }
 
 /*# sourceMappingURL=src_components_footer_footer_b52d8e.css.map*/

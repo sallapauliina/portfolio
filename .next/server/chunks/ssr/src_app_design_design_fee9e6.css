@@ -1,0 +1,39 @@
+/* [project]/src/app/design/design.css [app-client] (css) */
+.title2 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  text-align: left;
+  font-style: italic;
+  font-family: serif;
+  font-size: x-large;
+}
+
+.projects {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.image1 {
+  padding: 20px;
+}
+
+.image2 {
+  padding: 20px;
+}
+
+p {
+  font-size: large;
+  width: 70%;
+}
+
+h1 {
+  font-size: x-large;
+  font-family: serif;
+  padding: 20px;
+}
+
+
+/*# sourceMappingURL=src_app_design_design_fee9e6.css.map*/

@@ -381,8 +381,34 @@ img, video {
   min-height: 100vh;
 }
 
-.pb-5 {
-  padding-bottom: 1.25rem;
+.p-20 {
+  padding: 5rem;
+}
+
+.p-10 {
+  padding: 2.5rem;
+}
+
+.p-6 {
+  padding: 1.5rem;
+}
+
+.pb-10 {
+  padding-bottom: 2.5rem;
+}
+
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.text-xl {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+
+.underline {
+  text-decoration-line: underline;
 }
 
 .antialiased {
@@ -411,13 +437,15 @@ body {
 
 /* [project]/src/components/header/header.css [app-client] (css) */
 .link {
-  color: red;
   text-decoration: none;
+  font-size: x-large;
   margin-right: 10px;
+  font-family: serif;
+  transition: color .3s;
 }
 
 .link:hover {
-  color: #00f;
+  color: #047857;
 }
 
 nav {
@@ -426,7 +454,6 @@ nav {
   align-items: center;
   padding: 10px;
   height: 100px;
-  background-color: #fb0;
 }
 
 .title {
@@ -435,13 +462,25 @@ nav {
   font-family: serif;
 }
 
+.title1 {
+  font-size: 18px;
+  font-style: italic;
+  font-family: serif;
+  transition: color .3s;
+}
+
+.title1:hover {
+  color: #047857;
+}
+
 
 /* [project]/src/components/footer/footer.css [app-client] (css) */
 .footer {
   display: flex;
   justify-content: space-around;
-  background-color: #0ff;
   width: 100%;
+  font-family: serif;
+  padding-top: 70px;
 }
 
 

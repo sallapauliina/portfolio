@@ -3,14 +3,14 @@ import "./header.css";
 export default function Header() {
   return (
     <nav>
-      <Link className="title" href={"/"}>
+      <Link className="title1" href={"/"}>
         Salla Lyytikäinen
       </Link>
 
       <div>
         <Link className="link" href={"/design"}>
           {" "}
-          Design
+          Projects
         </Link>
         <Link className="link" href={"/contact"}>
           {" "}
