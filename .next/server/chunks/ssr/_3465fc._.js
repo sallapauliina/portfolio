@@ -63,10 +63,36 @@ function Design() {
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "textt",
-                children: "AskareAppi was developed together with my friend Eveliina for our course. It is a personal task management solution for a clean and organized home. You can add new tasks, mark them as completed, and keep track of your progress."
+                children: "AskareAppi was developed together with my friend for our course. It is a personal task management solution for a clean and organized home. You can add new tasks, mark them as completed, and keep track of your progress."
             }, void 0, false, {
                 fileName: "[project]/src/app/design/page.js",
                 lineNumber: 28,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
+                children: "Carbon companion"
+            }, void 0, false, {
+                fileName: "[project]/src/app/design/page.js",
+                lineNumber: 34,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                className: "image2",
+                src: "/carbon_companion.png",
+                alt: "Project 1",
+                width: 600,
+                height: 600
+            }, void 0, false, {
+                fileName: "[project]/src/app/design/page.js",
+                lineNumber: 35,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                className: "textt",
+                children: "This is another group project that I did with my friends. Carbon companion is a mobile application, which helps users to track and reduce their carbon footprint. It offers a variety of features, such as tracking, achievements, and tips."
+            }, void 0, false, {
+                fileName: "[project]/src/app/design/page.js",
+                lineNumber: 42,
                 columnNumber: 7
             }, this)
         ]

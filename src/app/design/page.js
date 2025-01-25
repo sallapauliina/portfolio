@@ -26,10 +26,24 @@ export default function Design() {
         height={600}
       />
       <div className="textt">
-        AskareAppi was developed together with my friend Eveliina for our
-        course. It is a personal task management solution for a clean and
-        organized home. You can add new tasks, mark them as completed, and keep
-        track of your progress.
+        AskareAppi was developed together with my friend for our course. It is a
+        personal task management solution for a clean and organized home. You
+        can add new tasks, mark them as completed, and keep track of your
+        progress.
+      </div>
+      <h1>Carbon companion</h1>
+      <Image
+        className="image2"
+        src="/carbon_companion.png"
+        alt="Project 1"
+        width={600}
+        height={600}
+      />
+      <div className="textt">
+        This is another group project that I did with my friends. Carbon
+        companion is a mobile application, which helps users to track and reduce
+        their carbon footprint. It offers a variety of features, such as
+        tracking, achievements, and tips.
       </div>
     </div>
   );

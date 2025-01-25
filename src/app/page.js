@@ -49,7 +49,7 @@ export default function Home() {
           <div className="column2">
             <p>Design systems</p>
             <p>Sketch</p>
-            <p>Adobe XD</p>
+            <p>Figma</p>
             <p>Illustrator</p>
           </div>
         </div>
