@@ -25,7 +25,7 @@ export default function Home() {
         <h2 className="text-xl">Programming</h2>
         <div className="skills2">
           <div className="column1">
-            <p>Javascript</p>
+            <p>JavaScript</p>
             <p>Python</p>
             <p>React</p>
             <p>SQL</p>
