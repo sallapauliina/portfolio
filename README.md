@@ -1,4 +1,8 @@
-## Getting Started
+## Description
+
+This is my personal website which you can also see at https://portfolio-ruddy-eight-86.vercel.app/
+
+## Set-up
 
 First, run the development server:
 
