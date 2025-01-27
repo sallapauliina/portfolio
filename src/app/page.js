@@ -33,7 +33,7 @@ export default function Home() {
           </div>
           <div className="column2">
             <p>CSS</p>
-            <p>Node</p>
+            <p>Node.js</p>
             <p>HTML</p>
             <p>Docker</p>
             <p>Github</p>
