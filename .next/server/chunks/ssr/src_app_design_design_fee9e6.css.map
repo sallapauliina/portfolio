@@ -2,6 +2,6 @@
   "version": 3,
   "sources": [],
   "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///Users/sallalyytikainen/Documents/GitHub/portfolio/src/app/design/design.css"],"sourcesContent":[".title2 {\n  display: flex;\n  justify-content: center;\n  flex-direction: column;\n  align-items: center;\n  text-align: left;\n  font-style: italic;\n  font-family: serif;\n  font-size: x-large;\n}\n.projects {\n  display: flex;\n  justify-content: center;\n  flex-wrap: wrap;\n}\n.image1 {\n  padding: 20px;\n}\n.image2 {\n  padding: 20px;\n}\n.textt {\n  padding: 20px;\n  font-size: large;\n  font-family: serif;\n  width: 70%;\n}\n"],"names":[],"mappings":"AAAA;;;;;;;;;;;AAUA;;;;;;AAKA;;;;AAGA;;;;AAGA"}},
-    {"offset": {"line": 32, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///Users/sallalyytikainen/Documents/GitHub/portfolio/src/app/design/design.css"],"sourcesContent":[".title2 {\n  display: flex;\n  justify-content: center;\n  flex-direction: column;\n  align-items: center;\n  text-align: left;\n  font-style: italic;\n  font-family: serif;\n  font-size: x-large;\n}\n.projects {\n  display: flex;\n  justify-content: center;\n  flex-wrap: wrap;\n}\n.image {\n  padding: 20px;\n}\n.text2 {\n  padding: 20px;\n  font-size: large;\n  font-family: serif;\n  width: 70%;\n}\n"],"names":[],"mappings":"AAAA;;;;;;;;;;;AAUA;;;;;;AAKA;;;;AAGA"}},
+    {"offset": {"line": 28, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
 }
