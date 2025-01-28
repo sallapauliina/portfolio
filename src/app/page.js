@@ -51,6 +51,7 @@ export default function Home() {
             <p>Website design</p>
             <p>Debugging</p>
             <p>Figma</p>
+            <p>MS Office</p>
           </div>
         </div>
       </div>
