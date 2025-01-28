@@ -44,7 +44,7 @@ export default function Design() {
         Recipe recommender is a personal project to help users find new recipes
         based on their preferences. The application asks question such as
         allergies, diets, and ingredients that the user has at home. Based on
-        the answers, the application suggests recipes.
+        the inputs, the application suggests different recipes.
       </div>
     </div>
   );
