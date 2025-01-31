@@ -70,7 +70,7 @@ function Design() {
                     " ",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                         className: "underline",
-                        href: "https://www.figma.com/proto/5pXyva6sVL3UlVMXkRO63j/UIC-projekti?node-id=0-1&t=NG95LxVk3XBYqmOl-1",
+                        href: "https://www.figma.com/proto/5pXyva6sVL3UlVMXkRO63j/UIC-projekti?node-id=0-1&p=f&t=qVCHIvCZPFtdR4xS-0&scaling=contain&content-scaling=fixed&starting-point-node-id=54%3A582&show-proto-sidebar=1",
                         children: "here"
                     }, void 0, false, {
                         fileName: "[project]/src/app/design/page.js",
@@ -104,8 +104,21 @@ function Design() {
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: "text2",
-                children: "Recipe recommender is a personal project to help users find new recipes based on their preferences. The application asks question such as allergies, diets, and ingredients that the user has at home. Based on the inputs, the application suggests different recipes."
-            }, void 0, false, {
+                children: [
+                    "Recipe recommender is a personal project to help users find new recipes based on their preferences. The application asks question such as allergies, diets, and ingredients that the user has at home. Based on the inputs, the application suggests different recipes. You can view the Figma prototype",
+                    " ",
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                        className: "underline",
+                        href: "https://www.figma.com/proto/GsxmwLJNTO9Rl9hY1fo7z7/Recipe-recommender?node-id=0-1&t=3haXibNER1d61vLR-1",
+                        children: "here"
+                    }, void 0, false, {
+                        fileName: "[project]/src/app/design/page.js",
+                        lineNumber: 57,
+                        columnNumber: 9
+                    }, this),
+                    "."
+                ]
+            }, void 0, true, {
                 fileName: "[project]/src/app/design/page.js",
                 lineNumber: 51,
                 columnNumber: 7

@@ -34,7 +34,7 @@ export default function Design() {
         tracking, achievements, and tips. You can view the Figma prototype{" "}
         <Link
           className="underline"
-          href="https://www.figma.com/proto/5pXyva6sVL3UlVMXkRO63j/UIC-projekti?node-id=22-248&p=f&t=NG95LxVk3XBYqmOl-0&scaling=contain&content-scaling=fixed&starting-point-node-id=54%3A582&show-proto-sidebar=1"
+          href="https://www.figma.com/proto/5pXyva6sVL3UlVMXkRO63j/UIC-projekti?node-id=0-1&p=f&t=qVCHIvCZPFtdR4xS-0&scaling=contain&content-scaling=fixed&starting-point-node-id=54%3A582&show-proto-sidebar=1"
         >
           here
         </Link>
@@ -52,7 +52,15 @@ export default function Design() {
         Recipe recommender is a personal project to help users find new recipes
         based on their preferences. The application asks question such as
         allergies, diets, and ingredients that the user has at home. Based on
-        the inputs, the application suggests different recipes.
+        the inputs, the application suggests different recipes. You can view the
+        Figma prototype{" "}
+        <Link
+          className="underline"
+          href="https://www.figma.com/proto/GsxmwLJNTO9Rl9hY1fo7z7/Recipe-recommender?node-id=0-1&t=3haXibNER1d61vLR-1"
+        >
+          here
+        </Link>
+        .
       </div>
     </div>
   );
