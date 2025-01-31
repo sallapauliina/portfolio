@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 import "./design.css";
 
 export default function Design() {
@@ -30,7 +31,14 @@ export default function Design() {
         This is another group project that I did with my friends. Carbon
         companion is a mobile application, which helps users to track and reduce
         their carbon footprint. It offers a variety of features, such as
-        tracking, achievements, and tips.
+        tracking, achievements, and tips. You can view the Figma prototype{" "}
+        <Link
+          className="underline"
+          href="https://www.figma.com/proto/5pXyva6sVL3UlVMXkRO63j/UIC-projekti?node-id=22-248&p=f&t=NG95LxVk3XBYqmOl-0&scaling=contain&content-scaling=fixed&starting-point-node-id=54%3A582&show-proto-sidebar=1"
+        >
+          here
+        </Link>
+        .
       </div>
       <h1>Recipe recommender</h1>
       <Image
