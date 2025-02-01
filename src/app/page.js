@@ -18,15 +18,15 @@ export default function Home() {
             Hi! I am Salla, a MSc student in Human-Computer Interaction at Aalto
             University, graduating this spring. My passion lies in creating
             meaningful, user-centric digital experiences through UI/UX design,
-            full-stack development, and service design.
+            programming, and service design.
           </p>
           <p>
             Over the past few years, I have developed my skills in designing and
             building intuitive interfaces, translating user needs into
             functional solutions, and collaborating in multidisciplinary teams.
-            I am proficient in tools and technologies such as JavaScript, React,
-            Figma, CSS, and I am eager to deepen my knowledge in software
-            engineering and full-stack development.
+            I am proficient in tools and technologies such as Python,
+            JavaScript, React, HTML, Figma, CSS, SQL and I am eager to deepen my
+            knowledge in software engineering and full-stack development.
           </p>
           <p>
             I am currently seeking an exciting and challenging trainee
