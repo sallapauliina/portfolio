@@ -17,7 +17,7 @@ export default function Home() {
           <p>
             Hi! I am Salla, a MSc student in Human-Computer Interaction at Aalto
             University, graduating this spring. My passion lies in creating
-            meaningful, user-centric digital experiences through UI/UX design,
+            meaningful, user-centered digital experiences through UI/UX design,
             programming, and service design.
           </p>
           <p>
