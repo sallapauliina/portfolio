@@ -42,7 +42,7 @@ function Home() {
                     className: "about2",
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                            children: "Hi! I am Salla, a MSc student in Human-Computer Interaction at Aalto University, graduating this spring. My passion lies in creating meaningful, user-centric digital experiences through UI/UX design, programming, and service design."
+                            children: "Hi! I am Salla, a MSc student in Human-Computer Interaction at Aalto University, graduating this spring. My passion lies in creating meaningful, user-centered digital experiences through UI/UX design, programming, and service design."
                         }, void 0, false, {
                             fileName: "[project]/src/app/page.js",
                             lineNumber: 17,
