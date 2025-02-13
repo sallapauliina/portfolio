@@ -25,9 +25,8 @@ export default function Home() {
             building intuitive interfaces, translating user needs into
             functional solutions, and collaborating in multidisciplinary teams.
             I am proficient in tools and technologies such as Python,
-            JavaScript, React, HTML, CSS, Figma, SQL, Next.js and I am eager to
-            deepen my knowledge in software engineering and full-stack
-            development.
+            JavaScript, React, SQL, Next.js and I am eager to deepen my
+            knowledge in software engineering and full-stack development.
           </p>
           <p>
             I am currently seeking an exciting and challenging trainee
