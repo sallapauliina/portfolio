@@ -6,7 +6,7 @@
   transition: color 0.3s ease;
 }
 .link:hover {
-  color: #047857;
+  color: #3ba424;
 }
 nav {
   display: flex;
@@ -27,5 +27,5 @@ nav {
   transition: color 0.3s ease;
 }
 .title1:hover {
-  color: #047857;
+  color: #3ba424;
 }
