@@ -62,7 +62,6 @@ export default function Home() {
             <p>HTML</p>
             <p>Docker</p>
             <p>Github</p>
-            <p>Typescript</p>
           </div>
         </div>
         <h2 className="text-xl">Skills</h2>
