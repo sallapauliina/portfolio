@@ -16,7 +16,7 @@ export default function Design() {
       <div className="text2">
         AskareAppi was developed together with my friend for our course. It is a
         personal task management solution for a clean and organized home. You
-        can add new tasks, mark them as completed, and keep track of your
+        can add new tasks, mark them as completed and keep track of your
         progress.
       </div>
       <h1>Carbon companion</h1>
