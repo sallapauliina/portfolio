@@ -51,12 +51,12 @@ export default function Design() {
       <div className="text2">
         Recipe recommender is a personal project to help users find new recipes
         based on their preferences. The application asks question such as
-        allergies, diets, and ingredients that the user has at home. Based on
-        the inputs, the application suggests different recipes. You can view the
+        allergies, diets, and ingredients that the user has. Based on the
+        inputs, the application suggests different recipes. You can view the
         Figma prototype{" "}
         <Link
           className="underline"
-          href="https://www.figma.com/proto/GsxmwLJNTO9Rl9hY1fo7z7/Recipe-recommender?node-id=0-1&t=3haXibNER1d61vLR-1"
+          href="https://www.figma.com/proto/hORQsropo0XW8oCDIH1FgD/Portfolio?node-id=0-1&p=f&viewport=189%2C-913%2C0.18&t=xbysC1CpvCjzhf5v-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2016&show-proto-sidebar=1"
         >
           here
         </Link>
