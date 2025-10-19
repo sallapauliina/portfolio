@@ -73,12 +73,14 @@ export default function Home() {
             <p>Prototyping</p>
             <p>Wireframing</p>
             <p>Customer service</p>
+            <p>User research</p>
           </div>
           <div className="column2">
             <p>Website design</p>
             <p>Debugging</p>
             <p>Figma</p>
             <p>MS Office</p>
+            <p>Jira</p>
           </div>
         </div>
       </div>
