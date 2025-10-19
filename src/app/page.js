@@ -18,29 +18,32 @@ export default function Home() {
             Hi! I am Salla, a recent graduate with a Master's degree in
             Human-Computer Interaction from Aalto University. My passion lies in
             creating meaningful, user-centered digital experiences and technical
-            solutions through UI/UX design, programming and service design.
+            solutions through UX/UI design, programming and service design.
           </p>
           <p>
             Over the past few years, I have developed my skills in designing and
             building intuitive interfaces, translating user needs into
             functional solutions and collaborating in multidisciplinary teams. I
-            am proficient in tools and technologies such as Python, JavaScript,
+            am proficient in tools and technologies such as Figma, JavaScript,
             React, SQL, Next.js and I am eager to deepen my knowledge in
-            software engineering and full-stack development.
+            software engineering and design systems.
           </p>
           <p>
-            I am currently seeking an exciting and challenging role where I can
-            expand my skills, gain hands-on experience and continue learning
-            from experts. I thrive in environments that challenge me to think
-            creatively, work collaboratively and solve complex problems.
+            I am currently working at Veikkaus as a Junior Designer until the
+            end of November. After that, I am seeking an exciting and
+            challenging role where I can further develop my skills, gain
+            hands-on experience and continue learning from experts. I thrive in
+            environments that challenge me to think creatively, work
+            collaboratively and solve complex problems.
           </p>
           <p>
-            Beyond my studies, I enjoy having an active lifestyle through
-            dancing, running, tennis and gym, while also cherishing time with
-            friends and family. Additionally, I enjoy attending to various
-            culture events such as concerts, operas and musicals. Lets connect
-            and create something impactful together! You can check out my
-            portfolio for some of my recent projects and to contact me.
+            I enjoy having an active lifestyle through dancing, running, tennis
+            and gym, while also cherishing time with friends and family.
+            Additionally, I enjoy attending to various culture events such as
+            concerts, operas and musicals. Lets connect and create something
+            impactful together! You can check out my portfolio for some of my
+            recent projects and to contact me. Please note that my projects from
+            Veikkaus are not included in this portfolio as they are not public.
           </p>
         </div>
       </div>
