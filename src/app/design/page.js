@@ -43,7 +43,7 @@ export default function Design() {
       <h1>Recipe recommender</h1>
       <Image
         className="image"
-        src="/recipe.png"
+        src="/recipeNew.png"
         alt="Project 3"
         width={600}
         height={600}
